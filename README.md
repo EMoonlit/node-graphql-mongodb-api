@@ -1,3 +1,10 @@
+# Fork de https://github.com/luizcalaca/node-graphql-mongodb-api
+## TODO
+- [ ] Abstrair e aplicar conceitos de GraphQL
+- [ ] Fazer comparação com o uso de uma API RESTful com express semelhante e colher inputs de casos de uso
+- [ ] Refatorar para typescript
+
+
 # Blog API em GraphQL
 
 Um aplicativo em GraphQL para gerenciar posts
